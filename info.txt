@@ -1,1 +1,2 @@
 tujuan membuat git hub untuk belajar laravel
+membuat system yang terus bisa berkembang
