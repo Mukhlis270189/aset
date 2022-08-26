@@ -1,0 +1,1 @@
+tujuan membuat git hub untuk belajar laravel
